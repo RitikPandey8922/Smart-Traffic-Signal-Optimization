@@ -119,15 +119,7 @@ npm start
 🌐 Multi-intersection traffic optimization
 🚦 IoT-based smart traffic sensors
 🤖 Deep Reinforcement Learning for large-scale systems
-
-## 👩‍💻 Contributors
-- Kamini Prajapati
-- Anushka Chandra
-- Jyoti Singh
-- Sadhna Paswan
 - Ritik Pandey
-
-(Project Mentor: Prof. Sanjai Kumar Gupta)
 
 ## 📌 Conclusion
 
