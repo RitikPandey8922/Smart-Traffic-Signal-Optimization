@@ -95,9 +95,6 @@ Signal simulation
 Performance comparison
 ## ⚙️ Installation & Setup
 ```
-# Clone repository
-git clone https://github.com/Kamini8707/Smart_Traffic_Management_System.git
-
 # Navigate to project folder
 cd Smart_Traffic_Management_System
 
@@ -119,7 +116,7 @@ npm start
 🌐 Multi-intersection traffic optimization
 🚦 IoT-based smart traffic sensors
 🤖 Deep Reinforcement Learning for large-scale systems
-- Ritik Pandey
+
 
 ## 📌 Conclusion
 
